@@ -1,0 +1,14 @@
+DATA LOGIN SIAgenda
+
+1. Administrator
+Email		:admin@siagenda.com
+Password	:password123
+
+
+2. Guru/Staff
+Email		:erwinila@gmail.com
+Password	:erwinnila
+
+3. Siswa
+Email		:auliafadhillah987@gmail.com
+Password	:aulaul123
